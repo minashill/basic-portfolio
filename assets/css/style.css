@@ -1,0 +1,134 @@
+#menubar { float: right;
+	position: relative;
+	left: 100px;
+	top: -50px;
+	margin-right: 212px;
+	font-size: 20px;
+	height: 20px;
+
+}
+#formtitle {
+	width: 600px;
+	height: 30px;
+	margin-top: 10px;
+	margin-bottom: 25px;
+}
+#button {
+	width: 150px;
+	height: 60px;
+	background-color: #52aaa4;
+	text-align: center;
+	color: white;
+	top: 700px;
+	position: absolute;
+	line-height: 60px;
+}
+.label {
+	height: 56px;
+	width: 240px;
+	background-color: #52aaa4;
+	position: absolute;
+	z-index: 1;
+	color: white;
+	text-align: center;
+	line-height: 56px;
+	font-size: 25px;
+}
+#about { height: 434px;
+	width: 580px;
+	background-color: white;
+	margin: 38px 491px 44px 141px;
+	padding: 30px;
+	display: inline-block;
+
+}
+#connect { height: 185px;
+	width: 240px;
+	background-color: white;
+	text-align: center;
+	top: 121px;
+	right: 214px;
+	position: absolute;
+	padding: 20px;
+
+}
+#contact {
+	height: 607px;
+	width: 800px;
+	padding: 27px;
+	background-color: white;
+	margin-top: 36px;
+	margin-left: 118px;
+	margin-bottom: 40px;
+	display: inline-block;
+
+}
+#portfolio{ 
+	height: 835px;
+	width: 631px;
+	background-color: white;
+	padding: 30px;
+	margin-top: 36px;
+	margin-left: 118px;
+	display: inline-block;
+
+}
+h1 { 	 margin-left: 146px;
+	width: 244px;
+	height: 88px;
+	line-height: 88px;
+	background-color: #52aaa4;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	position: relative;
+	display: block;
+
+}
+h2 {	 font-size: 30px;
+	color: #52aaa4;
+	font-weight: bold;
+
+
+}
+footer { text-align: center;
+	background-color: #666666;
+	height: 125px;
+	line-height: 125px;
+	color: white;
+	border-top: solid;
+	border-width: 5px;
+	border-color: #52aaa4;
+
+}
+ul { margin: 0;
+	padding: 0;
+	overflow: hidden;
+	position: relative;
+
+
+}
+li { display: inline;
+
+
+}
+li a { color: gray;
+	text-decoration: none;
+}
+p { line-height: 2em;
+	color: gray;
+	padding: 15px;
+}
+img { padding: 25px;
+
+}
+td {
+	height: 197px;
+	width: 266px;
+	position: relative;
+	z-index: 0;
+}
+a:hover {
+	color: #02bcf0;
+}
